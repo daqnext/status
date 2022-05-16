@@ -1,29 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: daqnext # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Meson Network
+    url: https://meson.network
+  - name: ColdCDN
+    url: https://coldcdn.com
+  - name: Meson Docs
+    url: https://docs.meson.network
+  - name: Content2049
+    url: https://content2049.meson.network
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.meson.network
+  # baseUrl: /upptime
+  faviconSvg: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg
+  theme: light
+  name: Meson Network System Status
+  introTitle: "Meson Network is committed to creating an efficient bandwidth marketplace on Web3."
   navbar:
+    - title: Home
+      href: https://meson.network/
     - title: Status
       href: /
+    - title: Docs
+      href: https://docs.meson.network/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
