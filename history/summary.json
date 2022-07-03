@@ -58,17 +58,17 @@
     "url": "https://content2049.meson.network",
     "icon": "https://favicons.githubusercontent.com/content2049.meson.network",
     "slug": "content2049",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 354,
-    "timeDay": 236,
-    "timeWeek": 247,
-    "timeMonth": 323,
-    "timeYear": 354,
+    "time": 409,
+    "timeDay": 1740,
+    "timeWeek": 621,
+    "timeMonth": 417,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   }
 ]
