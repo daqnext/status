@@ -7,8 +7,6 @@ sites:
     url: https://meson.network
   - name: MCDN
     url: https://m-cdn.io
-  - name: MesonTracking
-    url: https://mesontracking.com
   - name: ColdCDN
     url: https://coldcdn.com
   - name: Meson Docs
