@@ -58,17 +58,17 @@
     "url": "https://content2049.meson.network",
     "icon": "https://icons.duckduckgo.com/ip3/content2049.meson.network.ico",
     "slug": "content2049",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 376,
-    "timeWeek": 340,
-    "timeMonth": 537,
-    "timeYear": 488,
+    "time": 510,
+    "timeDay": 1812,
+    "timeWeek": 703,
+    "timeMonth": 645,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   }
 ]
