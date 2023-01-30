@@ -4,7 +4,7 @@
     "url": "https://meson.network",
     "icon": "https://icons.duckduckgo.com/ip3/meson.network.ico",
     "slug": "meson-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 692,
     "timeDay": 260,
-    "timeWeek": 744,
+    "timeWeek": 786,
     "timeMonth": 1393,
     "timeYear": 692,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 613,
     "timeDay": 274,
-    "timeWeek": 287,
+    "timeWeek": 285,
     "timeMonth": 850,
     "timeYear": 613,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 188,
-    "timeWeek": 327,
+    "timeWeek": 305,
     "timeMonth": 1094,
     "timeYear": 663,
     "dailyMinutesDown": {}
