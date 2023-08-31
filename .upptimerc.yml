@@ -9,10 +9,10 @@ sites:
     url: https://docs.meson.network
   - name: Meson Blog
     url: https://blog.meson.network
-  - name: Meson Explorer
-    url: https://explorer.meson.network:1984
   - name: GaGaNode
     url: https://www.gaganode.com
+  - name: Meson Explorer
+    url: https://explorer.meson.network:1984
   - name: Content2049
     url: https://content2049.meson.network
 
