@@ -11,6 +11,8 @@ sites:
     url: https://blog.meson.network
   - name: Meson Explorer
     url: https://explorer.meson.network:1984
+  - name: GaGaNode
+    url: https://www.gaganode.com
   - name: Content2049
     url: https://content2049.meson.network
 
